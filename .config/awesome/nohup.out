@@ -1,0 +1,22 @@
+2020-12-15 10:14:55 W: awesome: a_dbus_connect:611: Could not connect to D-Bus system bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+2020-12-15 10:14:55 W: awesome: a_glib_poll:438: Last main loop iteration took 0.157409 seconds! Increasing limit for this warning to that value.
+1
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'background' (using fallback).
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'foreground' (using fallback).
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'color0' (using fallback).
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'color1' (using fallback).
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'color2' (using fallback).
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'color3' (using fallback).
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'color4' (using fallback).
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'color5' (using fallback).
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'color6' (using fallback).
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'color7' (using fallback).
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'color8' (using fallback).
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'color9' (using fallback).
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'color10' (using fallback).
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'color11' (using fallback).
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'color12' (using fallback).
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'color13' (using fallback).
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'color14' (using fallback).
+2020-12-15 10:31:59 W: awesome: beautiful: can't get colorscheme from xrdb for value 'color15' (using fallback).
+2020-12-15 10:31:59 W: awesome: a_glib_poll:438: Last main loop iteration took 0.365083 seconds! Increasing limit for this warning to that value.
