@@ -17,7 +17,7 @@ ln -sf $PWD/.pip ~/.pip
 #http://www.ruanyifeng.com/blog/2017/07/xmonad.html
 #sudo apt install xmonad xmobar dmenu
 if [[ ! -d ~/.xmonad ]]; then
-    mkdir -p ~/xmonad
+    mkdir -p ~/.xmonad
 fi
 ln -sf $PWD/.xmonad/xmonad.hs $HOME/.xmonad/xmonad.hs
 ln -sf $PWD/.xmobarrc $HOME/.xmobarrc
