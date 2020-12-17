@@ -5,10 +5,10 @@ if [[ ! -d ~/.config ]]; then
     mkdir -p ~/mine
 fi
 
-#awesome wm
+#awesome wm ranger
 #sudo apt install awesome awesome-extra
 for file in $(ls .config); do
-    ln -sf $PWD/.config/$file $HOME/.config/$(basename $file)
+    echo ln -sf $PWD/.config/$file $HOME/.config/$(basename $file)
 done
 
 #pip
