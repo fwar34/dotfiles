@@ -1,3 +1,5 @@
+-- https://github.com/lcpz/awesome-copycats配合这个配置一起使用
+
 --[[
 
      Awesome WM configuration template
