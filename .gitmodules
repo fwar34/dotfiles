@@ -1,3 +1,6 @@
 [submodule ".config/ranger/plugins/ranger_devicons"]
 	path = .config/ranger/plugins/ranger_devicons
 	url = https://github.com/alexanderjeurissen/ranger_devicons
+[submodule ".config/ranger/plugins/ranger-fzf-marks"]
+	path = .config/ranger/plugins/ranger-fzf-marks
+	url = https://github.com/laggardkernel/ranger-fzf-marks
