@@ -1,3 +1,6 @@
-#http://www.mikewootc.com/wiki/linux/usage/linux_notebook_screen_hd_font_size.html 
-#Xft.dpi: 144.0
-Xft.dpi: 108.0
+Xft.dpi: 144.0
+Xft.antialias:1
+Xft.hinting:1
+Xft.hintstyle:hintslight
+Xft.rgba:rgb
+Xft.lcdfilter:lcddefault

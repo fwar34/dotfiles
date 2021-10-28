@@ -781,3 +781,8 @@ client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_n
 -- {{{
 -- Xephyr :5 & sleep 1 ; DISPLAY=:5 awesome
 -- }}}
+
+-- my settings
+-- for font
+-- beautiful.font = "Noto Sans Regular 10"
+-- beautiful.notification_font = "Noto Sans Bold 14"
