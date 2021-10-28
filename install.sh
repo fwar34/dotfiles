@@ -5,6 +5,11 @@ if [[ ! -d ~/.config ]]; then
     mkdir -p ~/mine
 fi
 
+git submodule update --init --recursive
+
+#Xresource
+ln -sf $PWD/.Xresources ~/.Xresources
+
 #awesome wm ranger
 #sudo apt install awesome awesome-extra
 for file in $(ls .config); do
