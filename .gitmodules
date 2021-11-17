@@ -5,5 +5,5 @@
 	path = .config/ranger/plugins/ranger-fzf-marks
 	url = https://github.com/laggardkernel/ranger-fzf-marks
 [submodule ".config/awesome/lain"]
-	path = .config/awesome/lain
+	path = .config/awesome.old/lain
 	url = https://github.com/lcpz/lain.git
