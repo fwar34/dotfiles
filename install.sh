@@ -9,6 +9,7 @@ git submodule update --init --recursive
 
 #Xresource
 ln -sf $PWD/.Xresources ~/.Xresources
+xrdb ~/.Xresources
 
 #awesome wm ranger
 #sudo apt install awesome awesome-extra
