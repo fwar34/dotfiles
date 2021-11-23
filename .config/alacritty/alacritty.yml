@@ -88,7 +88,8 @@ font:
     #   - (Linux) sourcecodepro 14
     #   - (Windows) Consolas
     #family: JetBrains Mono
-    family: JetBrainsMono Nerd Font
+    # family: JetBrainsMono Nerd Font
+    family: Sarasa Mono SC Nerd
     #family: Fira Code
     style: Medium
     # The `style` can be specified to pick a specific face.
@@ -102,7 +103,8 @@ font:
     # value specified for the normal font.
     #family: Fira Code
     #family: JetBrains Mono
-    family: JetBrainsMono Nerd Font
+    # family: JetBrainsMono Nerd Font
+    family: Sarasa Mono SC Nerd
     # Fira Code
     # The `style` can be specified to pick a specific face.
     style: Bold
@@ -115,7 +117,8 @@ font:
     # value specified for the normal font.
     # family: Fira Code
     #family: JetBrains Mono
-    family: JetBrainsMono Nerd Font
+    # family: JetBrainsMono Nerd Font
+    family: Sarasa Mono SC Nerd
     # Fira Code
     # The `style` can be specified to pick a specific face.
     style: Italic
