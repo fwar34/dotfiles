@@ -11,6 +11,9 @@ git submodule update --init --recursive
 ln -sf $PWD/.Xresources ~/.Xresources
 xrdb ~/.Xresources
 
+# environment
+ln -sf $PWD/.pam_environment ~/.pam_environment
+
 #awesome wm ranger
 #sudo apt install awesome awesome-extra
 for file in $(ls .config); do
