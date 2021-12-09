@@ -226,10 +226,10 @@ class fzf_select1(Command):
         import os.path
         if self.quantifier:
             # match only directories
-            command='fd --type d --hidden --follow -E ".git" -E "node_modules" . /etc $HOME | fzf +m'
+            command='fd --type d --hidden --follow -E ".git" -E "node_modules" -E ".subversion" -E ".deps" . /etc $HOME | fzf +m'
         else:
             # match files and directories
-            command='fd --hidden --follow -E ".git" -E "node_modules" . /etc $HOME | fzf +m'
+            command='fd --hidden --follow -E ".git" -E "node_modules" -E ".subversion" -E ".deps" . /etc $HOME | fzf +m'
         fzf = self.fm.execute_command(command, universal_newlines=True, stdout=subprocess.PIPE)
         stdout, stderr = fzf.communicate()
         if fzf.returncode == 0:
