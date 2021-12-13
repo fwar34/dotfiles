@@ -30,6 +30,15 @@ XMODIFIERS=@im=fcitx5
 
 
 # awesome 相关
-# sudo pacman -S alsa-utils feh picom dex
+# sudo pacman -S alsa-utils feh picom dex dhcped
 # fonts
 # proxychains4 paru -S noto-fonts-sc nerd-fonts-jetbrains-mono ttf-iosevka-nerd
+
+# {{{
+# /etc/dhcpcd.conf 
+# static ip
+# interface enp5s0
+# static ip_address=192.168.125.153/24
+# static routers=192.168.125.3
+# static domain_name_servers=192.168.125.3
+# }}}
