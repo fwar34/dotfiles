@@ -8,7 +8,7 @@
 # https://blog.woshiluo.com/1693.html
 # https://github.com/wongdean/rime-settings
 # pacman -S fcitx5 fcitx5-qt fcitx5-gtk
-# pacman -S fcitx5-chinese-addons fcitx-rime
+# pacman -S fcitx5-chinese-addons fcitx5-rime
 # 此时，Fcitx5 的配置文件在 ~/.config/fcitx5 下
 #
 # 1.2 Rime 的安装
