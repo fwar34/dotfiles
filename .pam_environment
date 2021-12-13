@@ -27,3 +27,9 @@ XMODIFIERS=@im=fcitx5
 #INPUT_METHOD  DEFAULT=fcitx
 #SDL_IM_MODULE DEFAULT=fcitx
 #GLFW_IM_MODULE DEFAULT=ibus
+
+
+# awesome 相关
+# sudo pacman -S alsa-utils feh picom dex
+# fonts
+# proxychains4 paru -S noto-fonts-sc nerd-fonts-jetbrains-mono ttf-iosevka-nerd
