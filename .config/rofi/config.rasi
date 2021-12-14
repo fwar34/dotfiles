@@ -1,7 +1,6 @@
 configuration {
   modi: "drun,window,combi,ssh";
-  # font: "JetBrains Mono 19";
-  font: "JetBrainsMono Nerd Font Mono 15";
+  font: "JetBrainsMono Nerd Font Mono 20";
   show-icons: true;
   display-drun: "";
   drun-display-format: "{name}";
@@ -14,8 +13,7 @@ configuration {
   bg: #151515;
   fg: #d0d0d0;
   al: #1f1f1f;
-  # font: "JetBrains Mono 19";
-  font: "JetBrainsMono Nerd Font Mono 15";
+  font: "JetBrainsMono Nerd Font Mono 20";
   background-color: @bg;
   text-color: @fg;
 }
