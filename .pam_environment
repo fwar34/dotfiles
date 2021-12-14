@@ -15,19 +15,10 @@
 # pacman -S librime 
 # pacman -S rime-double-pinyin #需要双拼的话，安装这个
 # 此时，Rime 的配置文件在 ~/.local/share/fcitx5/rime 下
-GTK_IM_MODULE=fcitx5
-QT_IM_MODULE=fcitx5
-XMODIFIERS=@im=fcitx5
+# GTK_IM_MODULE=fcitx5
+# QT_IM_MODULE=fcitx5
+# XMODIFIERS=@im=fcitx5
 # }}}
-
-#fcitx5
-#GTK_IM_MODULE DEFAULT=fcitx
-#QT_IM_MODULE  DEFAULT=fcitx
-#XMODIFIERS    DEFAULT=\@im=fcitx
-#INPUT_METHOD  DEFAULT=fcitx
-#SDL_IM_MODULE DEFAULT=fcitx
-#GLFW_IM_MODULE DEFAULT=ibus
-
 
 # awesome 相关
 # sudo pacman -S alsa-utils feh picom dex dhcped
