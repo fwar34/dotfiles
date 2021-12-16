@@ -1,3 +1,4 @@
+! https://wiki.archlinux.org/title/HiDPI_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)
 ! 设置字体分辨率
 !Xft.dpi:96
 Xft.dpi: 170.0
@@ -6,6 +7,7 @@ Xft.antialias:1
 Xft.hinting:1
 Xft.autohint:1
 Xft.hintstyle:hintslight
+!Xft.hintstyle:  hintfull
 Xft.rgba:rgb
 Xft.lcdfilter:lcddefault
 ! rofi.dpi: 120
