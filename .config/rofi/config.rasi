@@ -87,6 +87,7 @@ element selected {
 }
 @theme "/usr/share/rofi/themes/Paper.rasi"
 
+// https://github.com/davatorium/rofi/issues/1185
 // put after load theme, modify icon size
 element-icon {
   size: 30px;
