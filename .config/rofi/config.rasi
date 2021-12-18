@@ -69,12 +69,6 @@ element {
   padding: 2% 0% 2% 0%;
 }
 
-element-icon {
-  size: 48px;
-  border: 0px;
-  horizontal-align: 0.5;
-}
-
 element-text {
   expand: true;
   horizontal-align: 0.5;
@@ -92,3 +86,10 @@ element selected {
   border-radius: 10px;
 }
 @theme "/usr/share/rofi/themes/Paper.rasi"
+
+// put after load theme, modify icon size
+element-icon {
+  size: 30px;
+  border: 0px;
+  horizontal-align: 0.5;
+}
