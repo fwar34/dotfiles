@@ -33,4 +33,9 @@ fi
 ln -sf $PWD/.xmonad/xmonad.hs $HOME/.xmonad/xmonad.hs
 ln -sf $PWD/.xmobarrc $HOME/.xmobarrc
 
+if [[ -f ~/.config/lemonade.toml  ]]; then
+    mv ~/.config/lemonade.toml ~/.config/lemonade.toml.bak
+fi
+cp $PWD/lemonade.toml ~/.config/lemonade.toml
+
 echo complete
